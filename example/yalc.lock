@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@rnhooks/interaction-manager": {
+      "signature": "ab0f75a59abe3ee967b349587320d264",
+      "file": true
+    }
+  }
+}
