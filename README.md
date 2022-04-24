@@ -11,7 +11,7 @@ yarn add @rnhooks/interaction-manager
 ### Usage
 
 ```js
-import useCameraRoll from '@rnhooks/interaction-manager';
+import useInteractionManager from '@rnhooks/interaction-manager';
 
 function App() {
   const interactionComplete = useInteractionManager();
